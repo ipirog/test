@@ -11,4 +11,4 @@ Modification sur la branche develop.
 
 Modification sur la branche master
 
---> Voir pour mise à jour de la ligne sur la branche develop.
+Voir pour mise à jour de la ligne sur la branche develop + correction de feature #000_test.
